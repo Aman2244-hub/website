@@ -26,3 +26,4 @@ Warzone's website is built with React. This ties in with Warzone's [TGM](https:/
 - The site was not built with self-hosting in mind. This means important links like the Discord server and store are hardcoded at the moment.
 ### About React
 React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
